@@ -1,0 +1,136 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 26,
+  "margin": "7px 10px",
+  "modules-left": ["group/system-info", "hyprland/workspaces", "custom/vpn"],
+  "modules-center": ["temperature", "memory", "cpu"],
+  "modules-right": [ "clock","hyprland/language", "group/group-power" ,"tray"],
+
+  "custom/vpn": {
+    "exec": "check-vpn-status",
+    "return-type":"json",
+    "format": "VPN: {text}",
+    "on-click": "hiddify",
+    "interval": 5,
+},
+  "hyprland/workspaces": {
+    "format": "{name}",
+    "on-click": "activate",
+  },
+  "hyprland/language": {
+          "format": "{}"
+          },
+  "tray": {
+    "icon-size": 21,
+    "spacing":8
+  },
+
+  "temperature": {
+    "critical-threshold": 70,
+    "format": " {temperatureC}°C",
+    "tooltip": false
+  },
+    "bluetooth": {
+	    "format": " {status}",
+	    "tooltip-format": "{device_alias}",
+	    "tooltip-format-connected": " {device_enumerate}",
+	    "tooltip-format-enumerate-connected": "{device_alias}",
+            "on-click": "blueman-manager",
+            
+   },
+
+  "memory": {
+    "format": " {used}GiB",
+    "interval": 2
+  },
+
+  "cpu": {
+    "format": " {usage}%",
+    "interval": 2
+  },
+
+  "battery": {
+    "interval": 10,
+    "format": "{icon} {capacity}%",
+    "format-icons": [],
+    "format-charging": " {capacity}%",
+    "tooltip": true
+  },
+
+  "backlight": {
+    "format": " {percent}%",
+    "interval": 2
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": "󰖁",
+    "format-icons": ["󰕾"],
+    "on-click": "pavucontrol"
+  },
+
+  "network": {
+    "format-wifi": "  {signalStrength}%",
+    "format-ethernet": "󰈁  {ifname}",
+    "format-disconnected": "󰖪  Offline",
+    "tooltip": true 
+  },
+
+  "clock": {
+    "format": "  {:%H:%M }",
+    "format-alt": "  {:%a, %d %b %Y}",
+    "tooltip": "  {:%a, %d %b %Y}",
+    "interval": 60
+  },
+  "custom/system-info": {
+          "format": "",
+          "tooltip":"",
+        },
+  "group/system-info": {
+    "orientation": "inherit", 
+    "drawer": {
+        "transition-duration": 500,
+        "children-class": "not-power",
+        "transition-left-to-right": true,
+    },
+    "modules": [
+        "custom/system-info",
+        "battery",
+        "backlight",
+        "pulseaudio",
+        "network",
+        "bluetooth",
+    ]
+  },
+"group/group-power": {
+    "orientation": "inherit",
+    "drawer": {
+        "transition-duration": 500,
+        "children-class": "not-power",
+        "transition-left-to-right": false,
+    },
+    "modules": [
+        "custom/power", // First element is the "group leader" and won't ever be hidden
+        "custom/lock",
+        "custom/reboot",
+    ]
+},
+"custom/lock": {
+    "format": "󰍁",
+    "tooltip": false,
+    "on-click": "swaylock"
+},
+"custom/reboot": {
+    "format": "󰜉",
+    "tooltip": false,
+    "on-click": "reboot"
+},
+"custom/power": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "shutdown now"
+}
+
+}
+

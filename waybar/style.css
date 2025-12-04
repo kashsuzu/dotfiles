@@ -1,0 +1,124 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", bold;
+  font-size: 18px;
+  color: #adb1b9;
+  font-weight: 700;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 5px;
+}
+
+window#waybar {
+  background: #2b2f37;
+  border-top: 7px solid #2b2f37;
+  border-bottom: 7px solid #2b2f37;
+}
+tooltip {
+    background: #1e1e2e;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #11111b;
+}
+/* ===== Workspaces (Hyprland tabs uniform color) ===== */
+#workspaces {
+  background: #3e403f;          /* background color behind all buttons */
+  border-radius: 20px;          /* rounded capsule edges */
+  padding: 0px 10px;
+  margin: 3px 10px;               /* spacing around capsule */
+}
+#workspaces button {
+  margin: 0px 3px;
+  color: #09d66f;
+}
+
+#workspaces button.active {
+  color: #09d66f;  /* accent color for active workspace */
+    border-bottom: 4px solid #5e615f; /* clean underline instead of shadow */
+}
+
+
+#temperature,
+#memory,
+#cpu {
+        font-size: 19;
+}
+
+#temperature,
+#memory,
+#cpu,
+#battery,
+#backlight,
+#pulseaudio,
+#network,
+#clock,
+#custom-system-info,
+#tray,
+#bluetooth,
+#custom-power{
+  margin: 0 6px;
+  background: #2b2f37;
+  padding: 0 8px;
+}
+
+#tray {
+    margin: 0px 7px 0px 0px;
+    font-size: 24;
+}
+
+#custom-vpn > .active {
+    color: #ADFF2F;
+}
+#temperature {
+  color: #a4ebf3;
+}
+
+#memory {
+  color: #d19a66;
+}
+
+#cpu {
+  color: #989cff;
+}
+
+#battery {
+  color: #a0e8a2;
+}
+
+#backlight {
+  color: #61afef;
+}
+
+#pulseaudio {
+  color: #d35f5e;
+}
+
+#network {
+  color: #a3be8c;
+}
+
+#clock {
+  color: #888e96;
+}
+
+#custom-power {
+  color: #d35f5e;
+  font-size: 22;
+  margin: 0 10px 0 0;
+}
+
+#custom-system-info {
+  color: #61afef;
+  font-size: 22;
+}
+#bluetooth {
+    color: #89b4fa;
+} 
+
+#custom-lock,
+#custom-power,
+#custom-reboot {
+  font-size: 22;
+  margin: 0 10px;
+}
+
