@@ -1,0 +1,182 @@
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    // Установить собственный шрифт и его размеры
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 13,
+    // Установить дефолтный размер для редактора
+    "window.zoomLevel": 2.3,
+    "terminal.integrated.defaultLocation": "editor",
+    "workbench.tree.indent": 14,
+    "editor.lineNumbers": "relative",
+    // Запрашивать подтверждение на удаление и Drag&Drop
+    "explorer.confirmDragAndDrop": true,
+    "explorer.confirmDelete": false,
+
+    // Настройка excalidraw по дефолту
+    "excalidraw.workspaceLibraryPath": ".",
+    "excalidraw.theme": "dark",
+
+    // Убираем виджет справа для скролла
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "auto",
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": "off",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.stickyScroll.enabled": false,
+
+    // Убрать статус бар снизу
+    "workbench.statusBar.visible": false,
+
+    // Убрать панель слева с git, run, debug, plugins
+    "workbench.activityBar.location": "hidden",
+
+    // Настройка курсора
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorBlinking": "phase",
+    "workbench.layoutControl.enabled": false,
+    "window.customTitleBarVisibility": "windowed",
+    "window.titleBarStyle": "custom",
+
+    // Отключаем лишние декорации и метки
+    "explorer.decorations.badges": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+
+    // Настройка плагина todo
+    "todohighlight.isEnable": true,
+
+    // По дефолту открывать пустую страницу
+    "workbench.startupEditor": "none",
+
+    // Установить длину одного tab
+    "editor.tabSize": 4,
+
+    // Добавлять одну пустую строку в конец файла чтобы избежать ошибоки
+    "files.insertFinalNewline": true,
+
+    // Отключаем окно с помощью для новичков
+    "workbench.tips.enabled": false,
+
+    // Отключаем прилипание заголовка в деревьях
+    "workbench.tree.enableStickyScroll": true,
+
+    // Убирает вертикальные линии отступов в дереве файлов
+    "workbench.tree.renderIndentGuides": "none",
+
+    // Всегда использовать те отступы, которые заданы вручную (tabSize, insertSpaces и т.п.), а не угадывать.
+    "editor.detectIndentation": false,
+    
+    // Убрать значок для сворачивания кода
+    "editor.showFoldingControls": "never",
+
+    // Отключает вертикальные линии отступов в редакторе
+    "editor.guides.indentation": false,
+    
+    // Не показывает пробелы, табы, перевод строки и т.п. символы в редакторе
+    "editor.renderWhitespace": "selection",
+
+    // Отключает подсветку активной строки
+    // "editor.renderLineHighlight": "none",
+
+    // Автосохранение файлов через короткую паузу после редактирования
+    "files.autoSave": "afterDelay",
+
+    // Отключает автообновления VS Code / VSCodium
+    "update.mode": "none",
+
+    // Отключает всплывающие предложения установить расширения
+    "extensions.ignoreRecommendations": true,
+
+    "ruff.nativeServer": "on",
+    "python.languageServer": "Pylance",
+    "python.analysis.languageServerMode": "full",
+    
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.rulers": [79],
+        "editor.formatOnSave": true,  
+        "editor.codeActionsOnSave": {
+            "source.fixAll.ruff": "always",
+            "source.organizeImports.ruff": "always"
+        },
+    },
+    "window.title": "${folderName}",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "chat.commandCenter.enabled": false,
+    "autoDocstring.docstringFormat": "sphinx",
+    
+    // Не показывать все открытые вкладки
+    "workbench.editor.showTabs": "single",
+
+    
+    "git.openRepositoryInParentFolders": "never",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.customLabels.enabled": false,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "breadcrumbs.filePath": "off",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "archlinux (WSL)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "archlinux"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "python.analysis.typeCheckingMode": "standard",
+
+    "remote.autoForwardPortsSource": "hybrid",
+    "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "k"],
+      "after": ["<Esc>"]
+    }],
+    "vim.useCtrlKeys": true,
+    "vim.handleKeys": {
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-f>": false,
+        "<C-h>": false,
+    },
+    "vim.useSystemClipboard": true,
+    "vim.surround": true,
+    "vim.normalModeKeyBindings": [{
+        "before": ["<C-d>"],
+        "after": ["<C-d>", "z", "z"]
+    },
+    {
+        "before": ["<C-u>"],
+        "after": ["<C-u>", "z", "z"]
+    }
+    ],
+
+    "extensions.experimental.affinity": {
+        "vscodevim.vim": 1
+    },
+    "python.defaultInterpreterPath": "/bin/python"
+}

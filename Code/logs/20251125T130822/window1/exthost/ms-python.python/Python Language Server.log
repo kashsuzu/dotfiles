@@ -1,0 +1,19 @@
+2025-11-25 13:08:46.013 [info] (Client) Running with node: /home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/.cache/node/node
+2025-11-25 13:08:46.516 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.16.0)
+2025-11-25 13:08:46.813 [info] (14582) Server root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-25 13:08:46.813 [info] (14582) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-25 13:08:46.834 [info] (14582) Starting service instance "<default>" for workspace ""
+2025-11-25 13:08:46.858 [info] (14582) Starting Mcp server id:5560 ...
+2025-11-25 13:08:46.995 [info] (14582) Setting environmentName for service "<default>": "Python 3.13.7"
+2025-11-25 13:08:46.995 [info] (14582) Setting pythonPath for service "<default>": "/bin/python"
+2025-11-25 13:08:46.995 [info] (14582) No include entries specified; assuming /<default workspace root>
+2025-11-25 13:08:46.996 [info] (14582) Auto-excluding **/node_modules
+2025-11-25 13:08:46.996 [info] (14582) Auto-excluding **/__pycache__
+2025-11-25 13:08:46.996 [info] (14582) Auto-excluding **/.*
+2025-11-25 13:08:46.996 [info] (14582) Assuming Python version 3.13.7.final.0
+2025-11-25 13:08:46.997 [error] (14582) File or directory "/<default workspace root>" does not exist.
+2025-11-25 13:08:46.997 [info] (14582) No source files found.
+2025-11-25 13:08:46.998 [info] (14582) Settings have not changed. Skipping update.
+2025-11-25 13:08:47.179 [info] (14582) Settings have not changed. Skipping update.
+2025-11-25 13:08:47.350 [info] (14582) BG: Priority queue background worker(2) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-25 13:08:47.351 [info] (14582) BG: Priority queue background worker(2) started

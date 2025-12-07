@@ -1,0 +1,29 @@
+2025-11-04 19:39:51.709 [info] Native locator: Refresh started
+2025-11-04 19:39:51.815 [info] > pyenv which python
+2025-11-04 19:39:51.815 [info] cwd: .
+2025-11-04 19:39:52.705 [info] Active interpreter [/home/arch/code/ret]:  /bin/python
+2025-11-04 19:39:52.706 [info] Native locator: Refresh finished in 998 ms
+2025-11-04 19:39:52.927 [info] Discover tests for workspace name: ret - uri: /home/arch/code/ret
+2025-11-04 19:40:01.147 [info] Native locator: Refresh started
+2025-11-04 19:40:01.147 [info] Native locator: Refresh started
+2025-11-04 19:40:01.329 [info] > pyenv which python
+2025-11-04 19:40:01.329 [info] cwd: .
+2025-11-04 19:40:01.358 [info] > python -c "import sys;print(sys.executable)"
+2025-11-04 19:40:01.962 [info] Active interpreter [/home/arch/code/work/TTSpamer]:  /home/arch/code/work/TTSpamer/venv/bin/python
+2025-11-04 19:40:02.196 [info] Native locator: Refresh finished in 1049 ms
+2025-11-04 19:40:02.200 [info] > pyenv which python
+2025-11-04 19:40:02.200 [info] cwd: .
+2025-11-04 19:40:13.212 [info] Starting Pylance language server.
+2025-11-04 19:40:13.573 [info] Discover tests for workspace name: undefined - uri: /home/arch/.config/Code/User/settings.json
+2025-11-04 19:42:19.505 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:44:49.150 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:44:54.911 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:14.350 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:33.932 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:39.382 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:46.510 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:48.925 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:45:50.832 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:47:27.747 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:47:29.384 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py
+2025-11-04 19:57:01.263 [info] Discover tests for workspace name: TTSpamer - uri: /home/arch/code/work/TTSpamer/main.py

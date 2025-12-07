@@ -1,0 +1,10 @@
+2025-11-25 13:08:45.222316464  INFO No workspace(s) were provided during initialization. Using the current working directory as a default workspace: /home/arch
+2025-11-25 13:08:45.222824198  INFO No workspace options found for file:///home/arch, using default options
+2025-11-25 13:08:45.233178046  INFO Registering workspace: /home/arch
+2025-11-25 13:08:45.247321031  INFO Configuration file watcher successfully registered
+2025-11-25 13:08:45.589263450  INFO Server shut down
+[Error - 1:08:45 PM] Server process exited with code 0.
+2025-11-25 13:08:46.080190988  INFO No workspace(s) were provided during initialization. Using the current working directory as a default workspace: /home/arch
+2025-11-25 13:08:46.080281317  INFO No workspace options found for file:///home/arch, using default options
+2025-11-25 13:08:46.081851011  INFO Registering workspace: /home/arch
+2025-11-25 13:08:46.084181067  INFO Configuration file watcher successfully registered

@@ -1,0 +1,6 @@
+2025-12-04 19:58:48.972 [info] Native locator: Refresh started
+2025-12-04 19:58:49.135 [info] > pyenv which python
+2025-12-04 19:58:49.136 [info] cwd: .
+2025-12-04 19:58:50.140 [info] Native locator: Refresh finished in 1168 ms
+2025-12-04 19:58:50.345 [info] Active interpreter [/home/arch/code/pig]:  /home/arch/code/pig/venv/bin/python
+2025-12-04 19:59:01.247 [info] Starting Pylance language server.

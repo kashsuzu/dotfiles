@@ -1,0 +1,37 @@
+2025-11-04 17:28:23.552 [info] Extension host with pid 26606 started
+2025-11-04 17:28:23.652 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-04 17:28:23.884 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 17:28:23.903 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 17:28:24.063 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 17:28:24.237 [info] Extension host with pid 26665 started
+2025-11-04 17:28:24.256 [info] Eager extensions activated
+2025-11-04 17:28:24.259 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:24.453 [info] Eager extensions activated
+2025-11-04 17:28:24.458 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:24.462 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:25.537 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 17:28:47.699 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 17:28:47.707 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 17:28:47.714 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 17:28:47.714 [info] Extension host with pid 26665 exiting with code 0
+2025-11-04 17:28:47.769 [info] Extension host with pid 26606 exiting with code 0
+2025-11-04 17:28:49.631 [info] Extension host with pid 28600 started
+2025-11-04 17:28:49.631 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/e1bcac9d37d80761428a9bf653bbe183.
+2025-11-04 17:28:49.816 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-04 17:28:49.998 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-11-04 17:28:50.091 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-04 17:28:50.787 [info] Extension host with pid 28626 started
+2025-11-04 17:28:50.787 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/e1bcac9d37d80761428a9bf653bbe183.
+2025-11-04 17:28:50.811 [info] Eager extensions activated
+2025-11-04 17:28:50.814 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:51.264 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 17:28:52.135 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 17:28:52.737 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-11-04 17:28:52.929 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'workspaceContains:pyproject.toml'
+2025-11-04 17:28:53.663 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-11-04 17:28:54.068 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'workspaceContains:*.py,*.ipynb'
+2025-11-04 17:28:55.986 [info] Eager extensions activated
+2025-11-04 17:28:56.012 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:56.019 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 17:28:56.942 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 17:28:57.384 [warning] DiagnosticCollection with name 'Pylance' does already exist.

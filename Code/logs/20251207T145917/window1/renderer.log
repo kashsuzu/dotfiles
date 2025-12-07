@@ -1,0 +1,11 @@
+2025-12-07 14:59:18.969 [info] Started local extension host with pid 3891.
+2025-12-07 14:59:19.141 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-07 14:59:19.155 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-12-07 14:59:19.377 [info] Started local extension host with pid 3928.
+2025-12-07 14:59:19.796 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-12-07 14:59:20.040 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-07 14:59:20.123 [error] [Extension Host] (node:3891) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-07 14:59:21.635 [info] [perf] Render performance baseline is 15ms

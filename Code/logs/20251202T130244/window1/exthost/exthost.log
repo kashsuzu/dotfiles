@@ -1,0 +1,183 @@
+2025-12-02 13:02:47.766 [info] Extension host with pid 4362 started
+2025-12-02 13:02:48.418 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-02 13:02:48.531 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-02 13:02:48.602 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-12-02 13:02:49.328 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:02:49.419 [info] Extension host with pid 4460 started
+2025-12-02 13:02:49.451 [info] Eager extensions activated
+2025-12-02 13:02:49.491 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:02:50.305 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:02:50.726 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-02 13:02:50.839 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-02 13:02:50.937 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-02 13:02:51.390 [info] Eager extensions activated
+2025-12-02 13:02:51.422 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:02:51.438 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:02:51.748 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:02:51.842 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:03:11.768 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-02 13:03:12.143 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-12-02 13:08:14.076 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:13:16.115 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:18:18.162 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:23:20.222 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:27:33.559 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:27:33.568 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:27:33.570 [info] Extension host with pid 4460 exiting with code 0
+2025-12-02 13:27:33.669 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-02 13:27:33.675 [info] Extension host with pid 4362 exiting with code 0
+2025-12-02 13:27:36.301 [info] Extension host with pid 12507 started
+2025-12-02 13:27:36.301 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/9f2677106943fb9b1d64b81840865798.
+2025-12-02 13:27:36.413 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-02 13:27:36.634 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-12-02 13:27:36.652 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-02 13:27:36.856 [info] Eager extensions activated
+2025-12-02 13:27:36.859 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:36.863 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:37.116 [info] Extension host with pid 12533 started
+2025-12-02 13:27:37.116 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/9f2677106943fb9b1d64b81840865798.
+2025-12-02 13:27:37.141 [info] Eager extensions activated
+2025-12-02 13:27:37.148 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:39.877 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-12-02 13:27:47.014 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:27:47.016 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:27:47.023 [info] Extension host with pid 12533 exiting with code 0
+2025-12-02 13:27:47.079 [info] Extension host with pid 12507 exiting with code 0
+2025-12-02 13:27:49.295 [info] Extension host with pid 12677 started
+2025-12-02 13:27:49.295 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-02 13:27:49.345 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-02 13:27:49.573 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-02 13:27:49.637 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-02 13:27:49.775 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-02 13:27:49.979 [info] Extension host with pid 12701 started
+2025-12-02 13:27:49.980 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-02 13:27:50.009 [info] Eager extensions activated
+2025-12-02 13:27:50.012 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:50.125 [info] Eager extensions activated
+2025-12-02 13:27:50.130 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:50.140 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-02 13:27:55.682 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-12-02 13:27:56.076 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:27:57.127 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:27:57.217 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-02 13:27:57.753 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:27:57.883 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-02 13:27:58.304 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-02 13:28:12.075 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-02 13:28:12.081 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-02 13:28:12.483 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-12-02 13:30:02.093 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-02 13:30:12.936 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-12-02 13:33:14.192 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:38:16.020 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:43:17.815 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:48:19.606 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:53:21.366 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-12-02 13:54:36.075 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:54:36.082 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-02 13:54:36.083 [info] Extension host with pid 12701 exiting with code 0
+2025-12-02 13:54:36.154 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64/dist/extension.js:2:681672)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-02 13:54:36.158 [info] Extension host with pid 12677 exiting with code 0

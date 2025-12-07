@@ -1,0 +1,15 @@
+2025-11-04 17:28:22.206 [info] Started local extension host with pid 26606.
+2025-11-04 17:28:22.859 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-11-04 17:28:23.152 [info] Started local extension host with pid 26665.
+2025-11-04 17:28:23.218 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-04 17:28:23.441 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-04 17:28:25.406 [info] [perf] Render performance baseline is 66ms
+2025-11-04 17:28:25.541 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 17:28:48.606 [info] Started local extension host with pid 28600.
+2025-11-04 17:28:49.392 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-11-04 17:28:49.700 [info] Started local extension host with pid 28626.
+2025-11-04 17:28:49.934 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-04 17:28:50.053 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-04 17:28:50.182 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-04 17:28:51.412 [info] [perf] Render performance baseline is 67ms
+2025-11-04 17:28:52.139 [error] An unknown error occurred. Please consult the log for more details.

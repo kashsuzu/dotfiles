@@ -1,0 +1,30 @@
+2025-12-04 19:58:50.530 [info] Client: Running with node: /home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist/.cache/node/node
+2025-12-04 19:58:50.530 [info] Client: Command pylance.registerNotebookStartupCommands is already registered.
+2025-12-04 19:58:50.901 [info] (7382): Server root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist
+2025-12-04 19:58:50.901 [info] (7382): Pylance language server 2025.10.3 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-04 19:58:50.905 [info] (7382): Starting service instance "pig" for workspace "/home/arch/code/pig"
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Setting environmentName for service "pig": "venv (3.13.7)"
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Setting pythonPath for service "pig": "/home/arch/code/pig/venv/bin/python"
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): No include entries specified; assuming /home/arch/code/pig
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Auto-excluding **/node_modules
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Auto-excluding **/__pycache__
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Auto-excluding **/.*
+2025-12-04 19:58:51.142 [info] (7382): FG(pig): Assuming Python version 3.13.7.final.0
+2025-12-04 19:58:51.145 [info] (7382): FG(pig): Auto-excluding /home/arch/code/pig/venv
+2025-12-04 19:58:51.145 [info] (7382): FG(pig): Found 8 source files
+2025-12-04 19:58:51.151 [info] (7382): Settings have not changed. Skipping update.
+2025-12-04 19:58:51.153 [info] (7382): Settings have not changed. Skipping update.
+2025-12-04 19:58:51.396 [info] (7382): PQ(pig): Priority queue background worker(2) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist
+2025-12-04 19:58:51.401 [info] (7382): PQ(pig): Priority queue background worker(2) started
+2025-12-04 19:58:51.652 [info] (7382): IDX(pig): Indexer background runner(3) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist (index)
+2025-12-04 19:58:51.652 [info] (7382): IDX(pig): Indexing(3) started
+2025-12-04 19:58:52.231 [info] (7382): IDX(pig): scanned(3) 858 files over 1 exec env
+2025-12-04 19:58:53.019 [info] (7382): IDX(pig): indexed(3) 858 files over 1 exec env
+2025-12-04 19:58:53.110 [info] (7382): IDX(pig): Indexing finished(3).
+2025-12-04 19:58:53.609 [info] (7382): Settings have not changed. Skipping update.
+2025-12-04 19:59:00.606 [info] Client: The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-12-04 19:59:00.606 [info] Client: Pylance client (2025.10.3) started with python extension (2025.18.0)
+2025-12-04 19:59:01.239 [info] (7382): Loading background bundle file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist/copilot-background.bundle.js into file:///home/arch/code/pig...
+2025-12-04 19:59:01.266 [info] (7382): Settings have not changed. Skipping update.
+2025-12-04 19:59:01.276 [info] (7382): Starting Mcp server id:4907 ...
+2025-12-04 19:59:01.402 [info] (7382): BG(pig): Loaded external background bundle file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3/dist/copilot-background.bundle.js. 

@@ -1,0 +1,7 @@
+2025-12-07 14:51:40.552 [info] Started local extension host with pid 8504.
+2025-12-07 14:51:40.794 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-07 14:51:40.802 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-12-07 14:51:40.897 [info] Started local extension host with pid 8529.
+2025-12-07 14:51:41.098 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15

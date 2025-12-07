@@ -1,0 +1,27 @@
+2025-12-04 19:58:47.850 [info] Extension host with pid 6266 started
+2025-12-04 19:58:47.850 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-04 19:58:47.880 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-04 19:58:47.917 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-04 19:58:47.942 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-12-04 19:58:48.007 [info] Extension host with pid 6321 started
+2025-12-04 19:58:48.007 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-04 19:58:48.077 [info] Eager extensions activated
+2025-12-04 19:58:48.104 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 19:58:48.150 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-04 19:58:48.492 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-04 19:58:48.621 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-04 19:58:48.892 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-04 19:58:48.904 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-04 19:58:48.959 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-04 19:58:48.999 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-12-04 19:58:49.024 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-04 19:58:49.188 [info] Eager extensions activated
+2025-12-04 19:58:49.197 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 19:58:49.200 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 19:58:51.144 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-04 19:58:51.153 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-04 19:58:51.154 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-04 19:59:01.266 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-04 20:09:51.624 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-04 20:09:51.635 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-04 20:09:51.958 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

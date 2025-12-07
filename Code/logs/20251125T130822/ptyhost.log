@@ -1,0 +1,1 @@
+2025-11-25 13:08:44.951 [error] Failed to set sticky bit on /tmp/arch-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/arch-code-zsh'

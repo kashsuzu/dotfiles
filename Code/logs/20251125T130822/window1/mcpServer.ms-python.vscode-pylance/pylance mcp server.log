@@ -1,0 +1,48 @@
+2025-11-25 13:08:47.365 [info] Starting server pylance mcp server
+2025-11-25 13:08:47.365 [info] Connection state: Starting
+2025-11-25 13:08:47.365 [info] Starting server from LocalProcess extension host
+2025-11-25 13:08:47.365 [info] Connection state: Running
+2025-11-25 13:08:47.407 [info] Discovered 12 tools
+2025-11-25 13:13:48.162 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-25 14:06:12.523 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-25 14:11:14.441 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-25 14:16:16.375 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-25 14:21:18.294 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-25 14:26:20.178 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 12:55:24.332 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:00:26.349 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:05:28.406 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:10:30.443 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:15:32.466 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:20:34.463 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:25:36.495 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:30:44.431 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:35:46.457 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:40:48.481 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:45:50.317 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:50:52.123 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 13:55:53.971 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:03:00.020 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:08:01.872 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:13:03.715 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:18:05.561 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:23:08.402 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:28:10.235 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:33:12.087 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:38:13.949 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:43:15.770 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:48:17.611 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:53:19.440 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 14:58:21.283 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:03:23.113 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:08:24.941 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:13:26.824 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:18:28.672 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:23:30.522 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:28:32.342 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:33:34.177 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:38:35.990 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:43:37.757 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-27 15:48:39.528 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-11-28 18:52:55.380 [warning] Extension host shut down, server will stop.
+2025-11-28 18:52:55.381 [info] Connection state: Stopped

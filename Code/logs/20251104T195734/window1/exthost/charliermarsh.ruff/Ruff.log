@@ -1,0 +1,511 @@
+2025-11-04 19:57:36.969 [info] Name: Ruff
+2025-11-04 19:57:36.969 [info] Module: ruff
+2025-11-04 19:57:36.969 [info] Python extension loading
+2025-11-04 19:57:36.969 [info] Waiting for interpreter from python extension.
+2025-11-04 19:57:37.088 [info] Using interpreter: /home/arch/code/work/TTSpamer/venv/bin/python
+2025-11-04 19:57:37.102 [info] Workspace settings for /home/arch/code/work/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/TTSpamer",
+    "workspace": "file:///home/arch/code/work/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/work/TTSpamer/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 19:57:37.103 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 19:57:37.213 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:37.258 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:37.258 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 19:57:37.259 [info] Server: Start requested.
+2025-11-04 19:57:37.378 [info] Server: Stop requested
+2025-11-04 19:57:37.378 [info] Python extension loaded
+2025-11-04 19:57:37.383 [info] Using interpreter: /home/arch/code/work/TTSpamer/venv/bin/python
+2025-11-04 19:57:37.387 [info] Workspace settings for /home/arch/code/work/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/TTSpamer",
+    "workspace": "file:///home/arch/code/work/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/work/TTSpamer/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 19:57:37.388 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 19:57:37.429 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:37.443 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:37.443 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 19:57:37.443 [info] Server: Start requested.
+2025-11-04 19:57:46.454 [info] Name: Ruff
+2025-11-04 19:57:46.454 [info] Module: ruff
+2025-11-04 19:57:46.454 [info] Python extension loading
+2025-11-04 19:57:46.454 [info] Waiting for interpreter from python extension.
+2025-11-04 19:57:46.749 [info] Python extension loaded
+2025-11-04 19:57:46.896 [info] Using interpreter: /bin/python
+2025-11-04 19:57:47.163 [info] Triggered Ruff restart while restart is in progress; queuing a restart.
+2025-11-04 19:57:47.172 [info] Workspace settings for /home/arch/code/work/tt_test/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/tt_test/TTSpamer",
+    "workspace": "file:///home/arch/code/work/tt_test/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 19:57:47.173 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 19:57:47.209 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:47.224 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:47.224 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 19:57:47.226 [info] Server: Start requested.
+2025-11-04 19:57:47.265 [info] Server: Stop requested
+2025-11-04 19:57:47.276 [info] Using interpreter: /home/arch/code/work/tt_test/TTSpamer/venv/bin/python
+2025-11-04 19:57:47.282 [info] Workspace settings for /home/arch/code/work/tt_test/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/tt_test/TTSpamer",
+    "workspace": "file:///home/arch/code/work/tt_test/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/work/tt_test/TTSpamer/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 19:57:47.283 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 19:57:47.329 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:47.337 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 19:57:47.337 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 19:57:47.338 [info] Server: Start requested.
+2025-11-04 20:05:59.441 [info] Name: Ruff
+2025-11-04 20:05:59.441 [info] Module: ruff
+2025-11-04 20:05:59.441 [info] Python extension loading
+2025-11-04 20:05:59.441 [info] Waiting for interpreter from python extension.
+2025-11-04 20:05:59.694 [info] Python extension loaded
+2025-11-04 20:05:59.696 [info] Using interpreter: /home/arch/code/work/TTSpamer/venv/bin/python
+2025-11-04 20:05:59.703 [info] Workspace settings for /home/arch/code/work/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/TTSpamer",
+    "workspace": "file:///home/arch/code/work/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/work/TTSpamer/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 20:05:59.704 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 20:05:59.739 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 20:05:59.751 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 20:05:59.751 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 20:05:59.753 [info] Server: Start requested.
+2025-11-04 20:06:00.558 [info] Server: Stop requested
+2025-11-04 20:06:00.702 [info] Using interpreter: /home/arch/code/work/TTSpamer/venv/bin/python
+2025-11-04 20:06:00.705 [info] Workspace settings for /home/arch/code/work/TTSpamer: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/work/TTSpamer",
+    "workspace": "file:///home/arch/code/work/TTSpamer",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/work/TTSpamer/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-11-04 20:06:00.705 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-11-04 20:06:00.741 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 20:06:00.748 [info] Found Ruff 0.14.0 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff
+2025-11-04 20:06:00.748 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64/bundled/libs/bin/ruff server
+2025-11-04 20:06:00.749 [info] Server: Start requested.

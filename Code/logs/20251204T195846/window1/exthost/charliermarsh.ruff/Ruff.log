@@ -1,0 +1,170 @@
+2025-12-04 19:58:49.216 [info] Name: Ruff
+2025-12-04 19:58:49.216 [info] Module: ruff
+2025-12-04 19:58:49.216 [info] Python extension loading
+2025-12-04 19:58:49.216 [info] Waiting for interpreter from python extension.
+2025-12-04 19:58:49.245 [info] Python extension loaded
+2025-12-04 19:58:49.248 [info] Using interpreter: /home/arch/code/pig/venv/bin/python
+2025-12-04 19:58:49.255 [info] Workspace settings for /home/arch/code/pig: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/pig",
+    "workspace": "file:///home/arch/code/pig",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/pig/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-12-04 19:58:49.256 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-12-04 19:58:49.305 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff
+2025-12-04 19:58:49.331 [info] Found Ruff 0.14.6 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff
+2025-12-04 19:58:49.331 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff server
+2025-12-04 19:58:49.333 [info] Server: Start requested.
+2025-12-04 19:58:50.345 [info] Server: Stop requested
+2025-12-04 19:58:50.533 [info] Using interpreter: /home/arch/code/pig/venv/bin/python
+2025-12-04 19:58:50.537 [info] Workspace settings for /home/arch/code/pig: {
+    "nativeServer": "on",
+    "cwd": "/home/arch/code/pig",
+    "workspace": "file:///home/arch/code/pig",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/home/arch/code/pig/venv/bin/python"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-12-04 19:58:50.537 [info] Global settings: {
+    "nativeServer": "on",
+    "cwd": "/home/arch",
+    "workspace": "/home/arch",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-12-04 19:58:50.583 [info] Falling back to bundled executable: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff
+2025-12-04 19:58:50.590 [info] Found Ruff 0.14.6 at /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff
+2025-12-04 19:58:50.590 [info] Server run command: /home/arch/.vscode/extensions/charliermarsh.ruff-2025.30.0-linux-x64/bundled/libs/bin/ruff server
+2025-12-04 19:58:50.590 [info] Server: Start requested.

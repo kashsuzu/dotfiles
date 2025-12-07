@@ -1,0 +1,20 @@
+2025-11-04 19:39:50.233 [info] Started local extension host with pid 15603.
+2025-11-04 19:39:50.287 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-11-04 19:39:50.446 [info] Started local extension host with pid 15633.
+2025-11-04 19:39:50.608 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-04 19:39:50.728 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-04 19:39:52.045 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 19:39:52.861 [info] [perf] Render performance baseline is 27ms
+2025-11-04 19:39:56.646 [info] Started local extension host with pid 18526.
+2025-11-04 19:39:56.707 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-04 19:39:56.886 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-11-04 19:39:56.946 [info] Started local extension host with pid 18553.
+2025-11-04 19:39:57.011 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-04 19:39:57.083 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-04 19:39:58.508 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 19:39:59.246 [info] [perf] Render performance baseline is 22ms
+2025-11-04 19:45:15.684 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 19:50:17.349 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 19:55:18.997 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-04 19:57:32.841 [warning] [backup tracker] suspended, ignoring unregister event file:///home/arch/code/work/TTSpamer/venv/lib64/python3.13/site-packages/playwright/driver/package/package.json 
+2025-11-04 19:57:32.841 [warning] [backup tracker] suspended, ignoring unregister event git:/home/arch/code/work/TTSpamer/main.py.git?%7B%22path%22%3A%22%2Fhome%2Farch%2Fcode%2Fwork%2FTTSpamer%2Fmain.py%22%2C%22ref%22%3A%22%22%7D 

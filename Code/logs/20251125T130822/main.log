@@ -1,0 +1,6 @@
+2025-11-25 13:08:22.619 [error] Invalid path provided: /home/arch/code/work/TTSpamer, ENOENT: no such file or directory, stat '/home/arch/code/work/TTSpamer'
+2025-11-25 13:08:22.702 [info] update#setState disabled
+2025-11-25 13:08:22.702 [info] update#ctor - updates are disabled by user preference
+2025-11-28 18:52:55.361 [info] Extension host with pid 13482 exited with code: 0, signal: unknown.
+2025-11-28 18:52:55.389 [info] Extension host with pid 13460 exited with code: 0, signal: unknown.
+2025-11-28 18:52:55.459 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 13435]: crashed with code 15 and reason 'killed'

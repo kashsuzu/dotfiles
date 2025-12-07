@@ -1,0 +1,134 @@
+2025-11-04 19:39:51.651 [info] [main] Log level: Info
+2025-11-04 19:39:51.651 [info] [main] Validating found git in: "git"
+2025-11-04 19:39:51.651 [info] [main] Using git "2.51.2" from "git"
+2025-11-04 19:39:51.651 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-04 19:39:51.651 [info] > git rev-parse --show-toplevel [55ms]
+2025-11-04 19:39:51.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.651 [info] > git rev-parse --show-toplevel [25ms]
+2025-11-04 19:39:51.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.652 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-04 19:39:51.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.661 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-04 19:39:51.661 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.672 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-04 19:39:51.672 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.680 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-04 19:39:51.680 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.687 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-04 19:39:51.687 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.733 [info] > git rev-parse --show-toplevel [11ms]
+2025-11-04 19:39:51.733 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.798 [info] > git rev-parse --show-toplevel [59ms]
+2025-11-04 19:39:51.798 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:51.801 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-04 19:39:51.809 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-04 19:39:51.809 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:39:52.737 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-04 19:39:52.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-04 19:40:01.032 [info] [main] Log level: Info
+2025-11-04 19:40:01.032 [info] [main] Validating found git in: "git"
+2025-11-04 19:40:01.032 [info] [main] Using git "2.51.2" from "git"
+2025-11-04 19:40:01.032 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-04 19:40:01.032 [info] > git rev-parse --show-toplevel [35ms]
+2025-11-04 19:40:01.048 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [13ms]
+2025-11-04 19:40:01.054 [info] [Model][openRepository] Opened repository (path): /home/arch/code/work/TTSpamer
+2025-11-04 19:40:01.054 [info] [Model][openRepository] Opened repository (real path): /home/arch/code/work/TTSpamer
+2025-11-04 19:40:01.054 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-04 19:40:01.071 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-04 19:40:01.072 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-04 19:40:01.072 [info] > git config --get commit.template [6ms]
+2025-11-04 19:40:01.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2025-11-04 19:40:01.113 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:40:01.115 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2025-11-04 19:40:01.155 [info] > git status -z -uall [36ms]
+2025-11-04 19:40:01.158 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [35ms]
+2025-11-04 19:40:01.210 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2025-11-04 19:40:01.219 [info] > git config --get commit.template [9ms]
+2025-11-04 19:40:01.224 [info] > git config --get --local branch.master.vscode-merge-base [7ms]
+2025-11-04 19:40:01.225 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-04 19:40:01.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-11-04 19:40:01.236 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:40:01.237 [info] > git reflog master --grep-reflog=branch: Created from *. [7ms]
+2025-11-04 19:40:01.249 [info] > git rev-parse refs/remotes/origin/master [13ms]
+2025-11-04 19:40:01.257 [info] > git status -z -uall [5ms]
+2025-11-04 19:40:01.258 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2025-11-04 19:40:01.263 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-11-04 19:40:01.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2025-11-04 19:40:01.309 [info] > git config --add --local branch.master.vscode-merge-base origin/master [38ms]
+2025-11-04 19:40:01.323 [info] > git config --get commit.template [5ms]
+2025-11-04 19:40:01.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-04 19:40:01.342 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:40:01.344 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2025-11-04 19:40:01.351 [info] > git status -z -uall [4ms]
+2025-11-04 19:40:01.353 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-11-04 19:40:01.582 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-04 19:40:02.627 [info] > git show --textconv :main.py [4ms]
+2025-11-04 19:40:02.630 [info] > git ls-files --stage -- main.py [4ms]
+2025-11-04 19:40:02.651 [info] > git cat-file -s bafce678e317c2c5997e09072d6ce8f1433ab1d8 [16ms]
+2025-11-04 19:40:02.910 [info] > git blame --root --incremental 465cbf4ffcc50aa3dc3d056172a0fc6d80ef37d6 -- main.py [3ms]
+2025-11-04 19:42:20.335 [info] > git config --get commit.template [5ms]
+2025-11-04 19:42:20.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-04 19:42:20.339 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:42:20.340 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:42:20.348 [info] > git status -z -uall [3ms]
+2025-11-04 19:42:20.349 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-04 19:44:49.975 [info] > git config --get commit.template [4ms]
+2025-11-04 19:44:49.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:44:49.978 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:44:49.979 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:44:49.987 [info] > git status -z -uall [5ms]
+2025-11-04 19:44:49.987 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:44:55.737 [info] > git config --get commit.template [3ms]
+2025-11-04 19:44:55.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:44:55.740 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:44:55.741 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:44:55.746 [info] > git status -z -uall [3ms]
+2025-11-04 19:44:55.747 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:45:15.177 [info] > git config --get commit.template [3ms]
+2025-11-04 19:45:15.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2025-11-04 19:45:15.180 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:45:15.181 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:45:15.188 [info] > git status -z -uall [4ms]
+2025-11-04 19:45:15.189 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:45:34.758 [info] > git config --get commit.template [4ms]
+2025-11-04 19:45:34.759 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2025-11-04 19:45:34.761 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:45:34.762 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:45:34.769 [info] > git status -z -uall [4ms]
+2025-11-04 19:45:34.770 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:45:40.183 [info] > git config --get commit.template [3ms]
+2025-11-04 19:45:40.183 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:45:40.186 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:45:40.186 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2025-11-04 19:45:40.193 [info] > git status -z -uall [4ms]
+2025-11-04 19:45:40.194 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-04 19:45:47.337 [info] > git config --get commit.template [4ms]
+2025-11-04 19:45:47.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:45:47.341 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:45:47.341 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2025-11-04 19:45:47.349 [info] > git status -z -uall [4ms]
+2025-11-04 19:45:47.349 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:45:53.154 [info] > git config --get commit.template [4ms]
+2025-11-04 19:45:53.155 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:45:53.159 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:45:53.160 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:45:53.166 [info] > git status -z -uall [3ms]
+2025-11-04 19:45:53.166 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-11-04 19:47:28.551 [info] > git config --get commit.template [4ms]
+2025-11-04 19:47:28.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:47:28.555 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:47:28.555 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:47:28.563 [info] > git status -z -uall [5ms]
+2025-11-04 19:47:28.564 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-04 19:48:45.870 [info] > git config --get commit.template [4ms]
+2025-11-04 19:48:45.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:48:45.875 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:48:45.876 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-04 19:48:45.883 [info] > git status -z -uall [3ms]
+2025-11-04 19:48:45.884 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-04 19:57:02.091 [info] > git config --get commit.template [4ms]
+2025-11-04 19:57:02.091 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-11-04 19:57:02.094 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/arch/code/work/TTSpamer/.git/refs/remotes/origin/master'
+2025-11-04 19:57:02.094 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2025-11-04 19:57:02.100 [info] > git status -z -uall [3ms]
+2025-11-04 19:57:02.101 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]

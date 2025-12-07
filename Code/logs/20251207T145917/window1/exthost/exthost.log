@@ -1,0 +1,20 @@
+2025-12-07 14:59:19.559 [info] Extension host with pid 3891 started
+2025-12-07 14:59:19.559 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-07 14:59:19.604 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-07 14:59:19.640 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-07 14:59:19.666 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-07 14:59:19.680 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-07 14:59:19.856 [info] Extension host with pid 3928 started
+2025-12-07 14:59:19.856 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/c7424909fb66c59fe62c0d8c18df1b9b.
+2025-12-07 14:59:19.887 [info] Eager extensions activated
+2025-12-07 14:59:19.894 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-07 14:59:20.054 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-07 14:59:20.122 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-07 14:59:20.154 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-07 14:59:20.154 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-07 14:59:20.285 [info] Eager extensions activated
+2025-12-07 14:59:20.311 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-07 14:59:20.315 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-07 15:55:40.018 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-07 15:55:40.030 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-07 15:55:40.076 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

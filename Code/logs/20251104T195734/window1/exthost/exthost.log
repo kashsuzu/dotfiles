@@ -1,0 +1,149 @@
+2025-11-04 19:57:35.610 [info] Extension host with pid 24466 started
+2025-11-04 19:57:35.610 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/757055e85f0248ad733672f035c7d968.
+2025-11-04 19:57:35.638 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-04 19:57:35.673 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-04 19:57:35.690 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-11-04 19:57:35.774 [info] Extension host with pid 24501 started
+2025-11-04 19:57:35.774 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/757055e85f0248ad733672f035c7d968.
+2025-11-04 19:57:35.787 [info] Eager extensions activated
+2025-11-04 19:57:35.793 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:35.858 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:36.225 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:36.615 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:36.661 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:36.840 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 19:57:36.861 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 19:57:36.922 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 19:57:36.973 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 19:57:37.137 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-04 19:57:37.208 [info] Eager extensions activated
+2025-11-04 19:57:37.227 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:37.228 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:38.529 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:38.532 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:38.533 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:38.534 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:38.749 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:44.733 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 19:57:44.737 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 19:57:44.737 [info] Extension host with pid 24501 exiting with code 0
+2025-11-04 19:57:44.737 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 19:57:44.763 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-04 19:57:44.765 [info] Extension host with pid 24466 exiting with code 0
+2025-11-04 19:57:45.481 [info] Extension host with pid 26016 started
+2025-11-04 19:57:45.481 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/b1ba1716bd10c8a34fbc60926c9eb353.
+2025-11-04 19:57:45.504 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-04 19:57:45.592 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 19:57:45.612 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 19:57:45.672 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 19:57:45.760 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb', root cause: charliermarsh.ruff
+2025-11-04 19:57:45.880 [info] Extension host with pid 26043 started
+2025-11-04 19:57:45.880 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/b1ba1716bd10c8a34fbc60926c9eb353.
+2025-11-04 19:57:45.887 [info] Eager extensions activated
+2025-11-04 19:57:45.888 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:46.041 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-11-04 19:57:46.170 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-04 19:57:46.321 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb'
+2025-11-04 19:57:46.382 [info] Eager extensions activated
+2025-11-04 19:57:46.405 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:46.408 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 19:57:46.461 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-04 19:57:46.981 [error] Error: ENOENT: no such file or directory, open '/home/arch/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-11-04 19:57:47.374 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:47.427 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 19:57:49.036 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:49.278 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:49.282 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 19:57:49.419 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-11-04 20:02:51.113 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-11-04 20:05:57.318 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 20:05:57.321 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-04 20:05:57.321 [info] Extension host with pid 26043 exiting with code 0
+2025-11-04 20:05:57.342 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-04 20:05:57.343 [info] Extension host with pid 26016 exiting with code 0
+2025-11-04 20:05:58.399 [info] Extension host with pid 28695 started
+2025-11-04 20:05:58.399 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/757055e85f0248ad733672f035c7d968.
+2025-11-04 20:05:58.460 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-04 20:05:58.485 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-04 20:05:58.498 [info] Extension host with pid 28723 started
+2025-11-04 20:05:58.498 [info] Skipping acquiring lock for /home/arch/.config/Code/User/workspaceStorage/757055e85f0248ad733672f035c7d968.
+2025-11-04 20:05:58.501 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-11-04 20:05:58.505 [info] Eager extensions activated
+2025-11-04 20:05:58.510 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 20:05:58.672 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 20:05:58.973 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 20:05:59.294 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 20:05:59.334 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-04 20:05:59.400 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-04 20:05:59.406 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-11-04 20:05:59.440 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-04 20:05:59.467 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-04 20:05:59.596 [info] Eager extensions activated
+2025-11-04 20:05:59.599 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 20:05:59.600 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-04 20:06:01.753 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 20:06:01.959 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 20:06:01.961 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-04 20:17:56.030 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-04 20:17:56.038 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-04 20:17:56.080 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-11-05 13:50:21.119 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-05 13:50:21.132 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-05 13:50:21.160 [error] TypeError: r.some is not a function
+	at h.saveToDisk (/home/arch/.vscode/extensions/vscodevim.vim-1.31.0/out/extension.js:2:650547)
+	at t.deactivate (/home/arch/.vscode/extensions/vscodevim.vim-1.31.0/out/extension.js:2:784919)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-05 13:50:21.160 [info] Extension host with pid 28723 exiting with code 0
+2025-11-05 13:50:21.241 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-05 13:50:21.245 [info] Extension host with pid 28695 exiting with code 0

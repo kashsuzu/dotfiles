@@ -1,0 +1,20 @@
+2025-12-02 13:02:47.966 [info] Deleted marked for removal extension from disk vscodevim.vim /home/arch/.vscode/extensions/vscodevim.vim-1.31.0
+2025-12-02 13:02:48.360 [info] Deleted marked for removal extension from disk charliermarsh.ruff /home/arch/.vscode/extensions/charliermarsh.ruff-2025.28.0-linux-x64
+2025-12-02 13:02:48.395 [info] Deleted marked for removal extension from disk ms-python.vscode-python-envs /home/arch/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64
+2025-12-02 13:02:48.801 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/arch/.vscode/extensions/ms-python.debugpy-2025.14.1-linux-x64
+2025-12-02 13:02:48.802 [info] Deleted marked for removal extension from disk ms-python.vscode-pylance /home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1
+2025-12-02 13:02:48.809 [info] Deleted marked for removal extension from disk ms-python.python /home/arch/.vscode/extensions/ms-python.python-2025.16.0-linux-x64
+2025-12-02 13:02:57.874 [info] Getting Manifest... ms-python.vscode-pylance
+2025-12-02 13:02:57.878 [info] Getting Manifest... vscodevim.vim
+2025-12-02 13:02:58.123 [info] Installing extension: vscodevim.vim {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-02 13:02:58.180 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arch/.vscode/extensions/extensions.json","path":"/home/arch/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-02 13:03:01.161 [info] Extension signature verification result for vscodevim.vim: Success. Internal Code: 0. Executed: true. Duration: 1356ms.
+2025-12-02 13:03:01.358 [info] Extracted extension to file:///home/arch/.vscode/extensions/vscodevim.vim-1.32.2: vscodevim.vim
+2025-12-02 13:03:01.377 [info] Renamed to /home/arch/.vscode/extensions/vscodevim.vim-1.32.2
+2025-12-02 13:03:01.437 [info] Marked extension as removed vscodevim.vim-1.32.1
+2025-12-02 13:03:01.461 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/arch/.vscode/extensions/extensions.json
+2025-12-02 13:03:11.019 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 2416ms.
+2025-12-02 13:03:18.692 [info] Extracted extension to file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3: ms-python.vscode-pylance
+2025-12-02 13:03:19.069 [info] Renamed to /home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.10.3
+2025-12-02 13:03:19.122 [info] Marked extension as removed ms-python.vscode-pylance-2025.10.1
+2025-12-02 13:03:19.133 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/arch/.vscode/extensions/extensions.json

@@ -1,0 +1,23 @@
+2025-12-02 13:02:51.640 [info] Native locator: Refresh started
+2025-12-02 13:02:55.000 [info] Active interpreter [global]:  /bin/python
+2025-12-02 13:02:55.001 [info] Native locator: Refresh finished in 3363 ms
+2025-12-02 13:03:10.857 [info] Starting Pylance language server.
+2025-12-02 13:27:57.683 [info] Native locator: Refresh started
+2025-12-02 13:27:57.684 [info] Native locator: Refresh started
+2025-12-02 13:28:01.417 [info] Native locator: Refresh finished in 3736 ms
+2025-12-02 13:28:01.433 [info] > pyenv which python
+2025-12-02 13:28:01.433 [info] cwd: .
+2025-12-02 13:28:01.473 [info] Active interpreter [/home/arch/code/pig]:  /bin/python
+2025-12-02 13:28:11.561 [info] Starting Pylance language server.
+2025-12-02 13:28:35.356 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/camera.py
+2025-12-02 13:28:43.521 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/blocks.py
+2025-12-02 13:28:53.096 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:29:06.008 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/main.py
+2025-12-02 13:30:01.552 [info] Active interpreter [/home/arch/code/pig]:  /home/arch/code/pig/venv/bin/python
+2025-12-02 13:30:01.554 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig
+2025-12-02 13:32:06.518 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:32:12.154 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:32:19.761 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:32:23.952 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:32:32.023 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/player.py
+2025-12-02 13:34:06.190 [info] Discover tests for workspace name: pig - uri: /home/arch/code/pig/moe/main.py

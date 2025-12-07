@@ -1,0 +1,15 @@
+2025-11-04 17:28:53.376 [info] (Client) Pylance client (2025.9.1) started with python extension (Unknown)
+2025-11-04 17:28:55.805 [info] (28648) Server root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-04 17:28:55.807 [info] (28648) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-04 17:28:55.851 [info] (28648) Starting service instance "ret" for workspace "/home/arch/code/ret"
+2025-11-04 17:28:55.992 [info] Failed to get active python environment for MCP server. MCP server disabled.
+2025-11-04 17:28:56.630 [info] (28648) Loading pyproject.toml file at /home/arch/code/ret/pyproject.toml
+2025-11-04 17:28:56.631 [info] (28648) No include entries specified; assuming /home/arch/code/ret
+2025-11-04 17:28:56.632 [info] (28648) Auto-excluding **/node_modules
+2025-11-04 17:28:56.633 [info] (28648) Auto-excluding **/__pycache__
+2025-11-04 17:28:56.634 [info] (28648) Auto-excluding **/.*
+2025-11-04 17:28:56.719 [info] (28648) Assuming Python version 3.13.7.final.0
+2025-11-04 17:28:57.357 [info] (28648) Found 60 source files
+2025-11-04 17:28:57.382 [info] (28648) Settings have not changed. Skipping update.
+2025-11-04 17:28:58.382 [info] (28648) BG: Priority queue background worker(2) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-04 17:28:58.383 [info] (28648) BG: Priority queue background worker(2) started

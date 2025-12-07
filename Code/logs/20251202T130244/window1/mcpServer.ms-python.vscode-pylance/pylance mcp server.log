@@ -1,0 +1,23 @@
+2025-12-02 13:03:11.981 [info] Starting server pylance mcp server
+2025-12-02 13:03:11.981 [info] Connection state: Starting
+2025-12-02 13:03:11.982 [info] Starting server from LocalProcess extension host
+2025-12-02 13:03:11.985 [info] Connection state: Running
+2025-12-02 13:03:12.136 [info] Discovered 12 tools
+2025-12-02 13:08:13.070 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:13:15.113 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:18:17.159 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:23:19.218 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:27:33.620 [warning] Extension host shut down, server will stop.
+2025-12-02 13:27:33.622 [info] Connection state: Stopped
+2025-12-02 13:28:12.169 [info] Starting server pylance mcp server
+2025-12-02 13:28:12.170 [info] Connection state: Starting
+2025-12-02 13:28:12.170 [info] Starting server from LocalProcess extension host
+2025-12-02 13:28:12.171 [info] Connection state: Running
+2025-12-02 13:28:12.480 [info] Discovered 12 tools
+2025-12-02 13:33:13.184 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:38:15.018 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:43:16.814 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:48:18.604 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:53:20.361 [info] Error reading from async stream, we will reconnect: TypeError: terminated
+2025-12-02 13:54:36.112 [warning] Extension host shut down, server will stop.
+2025-12-02 13:54:36.113 [info] Connection state: Stopped

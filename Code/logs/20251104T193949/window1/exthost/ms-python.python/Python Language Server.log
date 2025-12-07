@@ -1,0 +1,39 @@
+2025-11-04 19:40:12.409 [info] (Client) Running with node: /home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist/.cache/node/node
+2025-11-04 19:40:12.924 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.16.0)
+2025-11-04 19:40:13.193 [info] (19500) Server root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-04 19:40:13.193 [info] (19500) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-04 19:40:13.197 [info] (19500) Starting service instance "TTSpamer" for workspace "/home/arch/code/work/TTSpamer"
+2025-11-04 19:40:13.363 [info] (19500) Starting Mcp server id:4880 ...
+2025-11-04 19:40:13.582 [info] (19500) Setting environmentName for service "TTSpamer": "venv (3.13.7)"
+2025-11-04 19:40:13.583 [info] (19500) Setting pythonPath for service "TTSpamer": "/home/arch/code/work/TTSpamer/venv/bin/python"
+2025-11-04 19:40:13.583 [info] (19500) No include entries specified; assuming /home/arch/code/work/TTSpamer
+2025-11-04 19:40:13.583 [info] (19500) Auto-excluding **/node_modules
+2025-11-04 19:40:13.583 [info] (19500) Auto-excluding **/__pycache__
+2025-11-04 19:40:13.583 [info] (19500) Auto-excluding **/.*
+2025-11-04 19:40:13.583 [info] (19500) Assuming Python version 3.13.7.final.0
+2025-11-04 19:40:13.586 [info] (19500) Auto-excluding /home/arch/code/work/TTSpamer/venv
+2025-11-04 19:40:13.586 [info] (19500) Found 1 source file
+2025-11-04 19:40:13.586 [info] (19500) Settings have not changed. Skipping update.
+2025-11-04 19:40:13.588 [info] (19500) Settings have not changed. Skipping update.
+2025-11-04 19:40:13.835 [info] (19500) Settings have not changed. Skipping update.
+2025-11-04 19:40:14.096 [info] (19500) BG: Priority queue background worker(2) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-04 19:40:14.096 [info] (19500) BG: Priority queue background worker(2) started
+2025-11-04 19:40:14.100 [info] (19500) BG: Indexer background runner(3) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-04 19:40:14.100 [info] (19500) BG: Indexing(3) started
+2025-11-04 19:40:14.905 [info] (19500) BG: scanned(3) 1832 files over 1 exec env
+2025-11-04 19:40:18.233 [info] (19500) BG: [IDX(3)] Long operation: index execution environment file:///home/arch/code/work/TTSpamer (3068ms)
+2025-11-04 19:40:18.260 [info] (19500) BG: [IDX(3)] Long operation: index packages file:///home/arch/code/work/TTSpamer (3119ms)
+2025-11-04 19:40:18.260 [info] (19500) BG: indexed(3) 1832 files over 1 exec env
+2025-11-04 19:40:18.440 [info] (19500) BG: Indexing finished(3).
+2025-11-04 19:45:47.669 [info] (19500) Starting service instance "<default>" for workspace ""
+2025-11-04 19:45:47.859 [info] (19500) Setting environmentName for service "<default>": "Python 3.13.7"
+2025-11-04 19:45:47.859 [info] (19500) Setting pythonPath for service "<default>": "/bin/python"
+2025-11-04 19:45:47.859 [info] (19500) No include entries specified; assuming /<default workspace root>
+2025-11-04 19:45:47.859 [info] (19500) Auto-excluding **/node_modules
+2025-11-04 19:45:47.859 [info] (19500) Auto-excluding **/__pycache__
+2025-11-04 19:45:47.859 [info] (19500) Auto-excluding **/.*
+2025-11-04 19:45:47.859 [info] (19500) Assuming Python version 3.13.7.final.0
+2025-11-04 19:45:47.861 [error] (19500) File or directory "/<default workspace root>" does not exist.
+2025-11-04 19:45:47.861 [info] (19500) No source files found.
+2025-11-04 19:45:48.264 [info] (19500) BG: Priority queue background worker(5) root directory: file:///home/arch/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-04 19:45:48.266 [info] (19500) BG: Priority queue background worker(5) started

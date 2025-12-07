@@ -1,0 +1,69 @@
+2025-12-02 13:02:46.474 [info] Started local extension host with pid 4362.
+2025-12-02 13:02:47.237 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-02 13:02:47.279 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-12-02 13:02:47.748 [info] Started local extension host with pid 4460.
+2025-12-02 13:02:49.973 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-12-02 13:02:50.072 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-02 13:02:51.889 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-12-02 13:02:52.320 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-12-02 13:02:56.859 [info] Auto updating outdated extensions. ms-python.vscode-pylance, vscodevim.vim
+2025-12-02 13:03:00.051 [info] [perf] Render performance baseline is 77ms
+2025-12-02 13:08:14.080 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:13:16.120 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:18:18.166 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:23:20.223 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:27:34.893 [info] Started local extension host with pid 12507.
+2025-12-02 13:27:34.997 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-02 13:27:35.527 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-02 13:27:35.543 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-12-02 13:27:35.785 [info] Started local extension host with pid 12533.
+2025-12-02 13:27:35.868 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-12-02 13:27:36.259 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-02 13:27:37.867 [info] [perf] Render performance baseline is 62ms
+2025-12-02 13:27:39.672 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-02 13:27:48.110 [info] Started local extension host with pid 12677.
+2025-12-02 13:27:48.216 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2025-12-02 13:27:48.234 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2025-12-02 13:27:48.551 [info] Started local extension host with pid 12701.
+2025-12-02 13:27:48.752 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-02 13:27:49.376 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-12-02 13:27:49.439 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-02 13:27:51.562 [info] [perf] Render performance baseline is 49ms
+2025-12-02 13:33:14.197 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:38:16.026 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:43:17.821 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:48:19.610 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-02 13:53:21.370 [error] An unknown error occurred. Please consult the log for more details.
